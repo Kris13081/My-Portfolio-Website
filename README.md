@@ -8,7 +8,7 @@ I have used HTML5, CSS3, and a little bit of JavaScript to bring this website to
 
 Overall, this portfolio website serves as a testament to my skills and commitment to quality in web development. I invite you to explore the site and see for yourself what I have to offer as a developer. Thank you for visiting and I look forward to hearing from you soon.
 
-1-Home page:
+1-Home:
 ![Home-page](https://user-images.githubusercontent.com/87601009/216808271-8ec3f816-3ef4-4f92-86a3-569033f66048.jpg)
 
 2-About me:
