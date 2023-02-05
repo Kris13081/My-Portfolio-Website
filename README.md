@@ -12,7 +12,7 @@ Overall, this portfolio website serves as a testament to my skills and commitmen
 ![Home-page](https://user-images.githubusercontent.com/87601009/216808271-8ec3f816-3ef4-4f92-86a3-569033f66048.jpg)
 
 2-About me:
-![about me - 1](https://user-images.githubusercontent.com/87601009/216808303-0c19d0b9-9951-474d-801e-48885428b7fc.jpg)
+![about me - 1](https://user-images.githubusercontent.com/87601009/216808544-8fc79d56-4f7f-4647-951e-02eadebdb8ea.jpg)
 ![about-me-2 ](https://user-images.githubusercontent.com/87601009/216808310-a259edf7-c160-44c0-9313-8a4038ab4317.jpg)
 
 3-My portfolio:
