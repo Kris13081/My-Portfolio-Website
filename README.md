@@ -1,10 +1,10 @@
 # My-Portfolio-Website
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 !!!UPDATED
 
 Now it is complete full stack project!
 I added a backend to make the contact form fully useful. Now when client submits a message it is sent and saved to database.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 I am proud to introduce my latest project, a comprehensive and visually appealing portfolio website that showcases some of my frontend skills and experience as a web developer. The site features five main sections: Home, About Me, Portfolio, My Blogs, and Contact Me.
