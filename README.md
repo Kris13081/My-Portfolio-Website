@@ -1,5 +1,11 @@
 # My-Portfolio-Website
 
+!!!UPDATED
+Now it is complete full stack project!
+I added a backend to make the contact form fully useful. Now when client submits a message it is sent and saved to database.
+
+
+
 I am proud to introduce my latest project, a comprehensive and visually appealing portfolio website that showcases some of my frontend skills and experience as a web developer. The site features five main sections: Home, About Me, Portfolio, My Blogs, and Contact Me.
 
 The Home page of my portfolio website serves as an introduction to who I am and my goals as a web developer. It provides a brief overview of my background, education, and experience, and sets the tone for the rest of the site. The About Me section provides insight into my background, education, and experience, while the Portfolio section showcases my projects and my certificates. The Favorite Blogs section showcases my passion for staying up-to-date with industry news and trends, and the Contact Me section allows visitors to get in touch with me for potential projects or collaborations.
